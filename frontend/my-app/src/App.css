@@ -1,0 +1,15 @@
+.time-clock-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+  }
+  
+  .time-clock {
+    font-family: 'Arial', sans-serif; /* Custom font family */
+    font-size: 3rem; /* Adjust the font size as needed */
+    color: white; /* Text color */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: Text shadow for better readability */
+  }
+  
